@@ -73,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591873028169</updated>
-      <workItem from="1591873030655" duration="2800000" />
+      <workItem from="1591873030655" duration="3059000" />
     </task>
     <task id="LOCAL-00001" summary="changed text">
       <created>1591876127729</created>
@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591876824052</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="implemented coveralls">
+      <created>1591877168159</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591877168159</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,10 +115,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="implemented coveralls" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1863" y="149" width="915" height="779" key="CommitChangelistDialog2" timestamp="1591876823825">
+    <state x="1863" y="149" width="915" height="779" key="CommitChangelistDialog2" timestamp="1591877168045">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="1863" y="149" width="915" height="779" key="CommitChangelistDialog2/67.181.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1591876823825" />
+    <state x="1863" y="149" width="915" height="779" key="CommitChangelistDialog2/67.181.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1591877168045" />
+    <state x="1796" y="227" width="1039" height="622" key="DiffContextDialog" timestamp="1591877165768">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1796" y="227" width="1039" height="622" key="DiffContextDialog/67.181.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1591877165768" />
     <state x="2109" y="297" width="424" height="484" key="FileChooserDialogImpl" timestamp="1591875161237">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
@@ -132,9 +143,9 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state width="1897" height="264" key="GridCell.Tab.0.right/67.181.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1591876653615" />
-    <state x="1921" y="271" width="800" height="536" key="Vcs.Push.Dialog.v2" timestamp="1591876826859">
+    <state x="1921" y="271" width="800" height="536" key="Vcs.Push.Dialog.v2" timestamp="1591877171422">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="1921" y="271" width="800" height="536" key="Vcs.Push.Dialog.v2/67.181.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1591876826859" />
+    <state x="1921" y="271" width="800" height="536" key="Vcs.Push.Dialog.v2/67.181.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1591877171422" />
   </component>
 </project>
