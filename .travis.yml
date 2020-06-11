@@ -1,0 +1,9 @@
+sudo: true
+language: node_js
+node_js:
+  - node
+git:
+  quiet: true
+cache: npm
+script:
+  npm test
